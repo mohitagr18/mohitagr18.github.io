@@ -121,16 +121,7 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/contact/</guid>
-      <description>Follow me, @johndoe.</description>
-    </item>
-    
-    <item>
-      <title>Contato</title>
-      <link>https://mohitagr18.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohitagr18.github.io/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
+      <description>Email me: mohitagr18@gmail.com</description>
     </item>
     
     <item>
@@ -139,18 +130,8 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/projects/</guid>
-      <description>Exploring Healthcare Provider Shortage in America America has a severe shortage of healthcare providers. Demand for services is increasing and shortages of physicians and mental health providers are limiting patients’ access to required treatment.
-In this 3 part study, we use the National Plan and Provider Enumeration System (NPPES) healthcare provider data to:
- Identify shortage areas for physicians and mental healthcare providers in the U.S. Identify sociodemographic and economic factors that influence access to providers.</description>
-    </item>
-    
-    <item>
-      <title>Sobre Hugo</title>
-      <link>https://mohitagr18.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohitagr18.github.io/about/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
+      <description>1. Exploring Healthcare Provider Shortage in United States using Python America has a severe shortage of healthcare providers. Demand for services is increasing and shortages of physicians and mental health providers are limiting patients’ access to required treatment.
+In this 3 part study, we use Dask, ArcGIS Python API, ArcGIS WebGIS stack, spatial analysis and geoanalytics tools on National Plan and Provider Enumeration System (NPPES) healthcare provider data to:</description>
     </item>
     
   </channel>
