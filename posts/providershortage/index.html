@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Exploring Healthcare Provider Shortage in U.S. (4 part study)</title>
+    <title>Exploring Healthcare Provider Shortage in U.S. (4-part study)</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -69,7 +69,7 @@ if (!doNotTrack) {
       
 <div class="container p-0 read-area">
   
-  <div class="hero-area col-sm-12" style='background-image: url(https://mohitagr18.github.io/images/posts/providershortage.jpg);'>
+  <div class="hero-area col-sm-12" style='background-image: url(https://mohitagr18.github.io/images/posts/providershortage.png);'>
   </div>
 
   
@@ -81,24 +81,70 @@ if (!doNotTrack) {
     </div>
 
     <div class="title">
-      <h1>Exploring Healthcare Provider Shortage in U.S. (4 part study)</h1>
+      <h1>Exploring Healthcare Provider Shortage in U.S. (4-part study)</h1>
     </div>
 
     <div class="post-content" id="post-content">
       <p>America has a severe shortage of healthcare providers. Demand for services is increasing and shortages of physicians and mental health providers are limiting patients’ access to required treatment.
 <br/><br/></p>
-<p>In this 4 part study, we use Dask, ArcGIS Python API, ArcGIS WebGIS stack, spatial analysis and geoanalytics tools on National Plan and Provider Enumeration System (NPPES) healthcare provider data to:</p>
+<p>In this 4-part study, we use Dask, ArcGIS Python API, ArcGIS WebGIS stack, spatial analysis and geoanalytics tools on National Plan and Provider Enumeration System (NPPES) healthcare provider data to:</p>
 <ul>
 <li>Read, Clean and Geocode ~ 5.7 million records of healthcare provider data.</li>
 <li>Identify shortage areas for physicians, mental health and OB-GYN healthcare providers in the U.S.</li>
 <li>Identify sociodemographic and economic factors that influence access to providers.</li>
 <li>Identify the influence of factors and whether the influence in positive or negative.</li>
 </ul>
-<p><a href="../links/provider_shortage_part1_final.html">Part-1</a> - Get and clean large data using Dask</p>
-<p><a href="../links/provider_shortage_part2_final.html">Part-2</a> - Explore Healthcare Providers in U.S.</p>
-<p><a href="../links/provider_shortage_part3_final.html">Part-3</a> - Explore Mental and OB-GYN Healthcare Providers</p>
-<p><a href="../links/provider_shortage_part4_final.html">Part-4</a> - Modeling and Interpretation</p>
-<h6 id="language-python">Language: Python</h6>
+<p><a href="../links/provider_shortage_part1_final.html">Part-1 Provider Shortage - Data Preparation</a> <br>
+In this notebook, we will:</p>
+<ul>
+<li>Read large data file (~6GB) using Dask.</li>
+<li>Clean the data by dropping existing columns, adding new columns, renaming columns, change categories of a column and change data types.</li>
+<li>Compute data using dask.</li>
+<li>Basic exploration and missing value determination.</li>
+<li>Export data into multiple csv files.</li>
+</ul>
+<p><a href="../links/provider_shortage_part2_final.html">Part-2 Explore Healthcare Providers in U.S.</a> <br>
+In this notebook, we will:</p>
+<ul>
+<li>Get Geocoded data and check geocoding results.</li>
+<li>Gather and Process Demographic and Health Expenditure Data.</li>
+<li>Aggregate Provider Data at the County Level.</li>
+<li>Explore distribution of Heakthcare Providers in U.S.</li>
+<li>Explore Texas and study how:
+<ul>
+<li>Provider Count varies with Population Density, Median Income and Median Age.</li>
+</ul>
+</li>
+</ul>
+<p><a href="../links/provider_shortage_part3_final.html">Part-3 Explore Mental and OB-GYN Providers</a> <br>
+In this notebook, we will:</p>
+<ul>
+<li>Explore Mental Healthcare Providers
+<ul>
+<li>Study how Mental Healthcare Providers vary by Population Density accross all states.</li>
+<li>Identify state with highest people to provider ratio.</li>
+<li>Explore the state with highest ratio to understand how providers vary across different counties for that state.</li>
+</ul>
+</li>
+<li>Explore OBGYN Healthcare Providers
+<ul>
+<li>Study how OBGYN Healthcare Providers vary by population of mothers accross all states.</li>
+<li>Identify state with highest mothers to provider ratio.</li>
+<li>Explore the state with highest ratio to understand how providers vary across different counties for that state.</li>
+</ul>
+</li>
+</ul>
+<p><a href="../links/provider_shortage_part4_final.html">Part-4 Modeling and Interpretation</a> <br>
+In this notebook, we will:</p>
+<ul>
+<li>Generate a Base (OLS) Model of provider count using demographic and health expenditure variables.</li>
+<li>Perform Feature Selection using multiple techniques to select relevant features.</li>
+<li>Run a Global (OLS) model using selected features.</li>
+<li>Create a Geographically Weighted Regression (GWR) Model to understand impact how impact of various predictors varies accross different counties.</li>
+<li>Create a Forest Based Classification and Regression Trees Model to understand Non-linear relations and to indentify important variables.</li>
+<li>Create Local Bivariate Relationships (LBR) Model to understand the type and significance of relationships of Provider Count with respect to variables selected from Forest based model.</li>
+</ul>
+<h5 id="language-python">Language: Python</h5>
     </div>
 
     
