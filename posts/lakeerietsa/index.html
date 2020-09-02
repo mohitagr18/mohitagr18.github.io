@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Face Recognition using Principal Components Analysis</title>
+    <title>Lake Erie Water Levels - A Time Series Analysis (4-part study)</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -69,7 +69,7 @@ if (!doNotTrack) {
       
 <div class="container p-0 read-area">
   
-  <div class="hero-area col-sm-12" style='background-image: url(https://mohitagr18.github.io/images/posts/EigenfaceImage.png);'>
+  <div class="hero-area col-sm-12" style='background-image: url(https://mohitagr18.github.io/images/posts/TSA_Pic.jpg);'>
   </div>
 
   
@@ -77,19 +77,95 @@ if (!doNotTrack) {
     <div class="author-profile ml-auto align-self-lg-center">
       <img class="rounded-circle" src='/assets/images/profile.png'/>
       <h5 class="author-name">Mohit Aggarwal</h5>
-      <p>November 15, 2019</p>
+      <p>September 1, 2020</p>
     </div>
 
     <div class="title">
-      <h1>Face Recognition using Principal Components Analysis</h1>
+      <h1>Lake Erie Water Levels - A Time Series Analysis (4-part study)</h1>
     </div>
 
     <div class="post-content" id="post-content">
-      <p>The purpose of this project is to discuss a popular approach to face recognition called Eigenfaces. <br>
-<br/><br/><br/><br/></p>
-<p>The idea of <a href="https://en.wikipedia.org/wiki/Eigenface">Eigenfaces</a> is to construct a low-dimensional linear subspace that contains most of the face images possible with small errors. The essence of eigenfaces is an unsupervised dimensionality reduction algorithm called <a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Components Analysis (PCA)</a> that we use to reduce the dimensionality of images into something smaller.</p>
-<p><a href="../links/pca_facerecognition.html">Project Link</a></p>
-<h6 id="language-python">Language: Python</h6>
+      <p>In summer 2019, high water levels wreaked havoc on the communities bordering the Great Lakes leading to widespread damage in coastal cities, eroding shorelines and beaches. <br>
+<br/><br/></p>
+<p>In this study, we will use <a href="https://www.lre.usace.army.mil/Missions/Great-Lakes-Information/Great-Lakes-Information-2/Water-Level-Data/">Lake Erie water level data</a> from 1918 - 2019 to understand trends and forecast how water levels will vary into the future. We will explore various Time Series modeling techniques such as:</p>
+<ul>
+<li>Exponential Smoothing Models</li>
+<li>ARIMA (Autoregressive Integrated Moving Average) Models</li>
+<li>SARIMA (Seasonal Autoregressive Integrated Moving Average) Models</li>
+<li>Vector Based Models</li>
+</ul>
+<p><a href="../links/TSA1_Lake_Erie.html">Part-1 Exponential Smoothing Models</a> <br>
+In this notebook, we will:</p>
+<ul>
+<li>Read Lake Erie water level data</li>
+<li>Perform datatime operations to index it as a time series</li>
+<li>Explore the data</li>
+<li>Decompose data to separate the trend and seasonality components</li>
+<li>Built and fit different Exponential Smoothing models on the data
+<ul>
+<li>Simple Exponential Smoothing</li>
+<li>Double Exponential Smoothing</li>
+<li>Triple Exponential Smoothing</li>
+</ul>
+</li>
+<li>Perform prediction on test data and evaluated model performance
+<ul>
+<li>Split the data</li>
+<li>Fit models</li>
+<li>Generate predictions</li>
+<li>Evaluate model performance</li>
+</ul>
+</li>
+</ul>
+<p><a href="../links/TSA2_ARIMA_Lake_Erie.html">Part-2 ARIMA Models</a> <br>
+In this notebook, we will:</p>
+<ul>
+<li>Read Lake Erie water level data and index it as a time series</li>
+<li>Discuss Stationarity of data</li>
+<li>Difference the data to make it stationary</li>
+<li>Use the ACF and PACF plots to decide AR term(s) and MA term(s) for ARIMA model</li>
+<li>Identify optimal ARIMA order using grid search.</li>
+<li>Split the data</li>
+<li>Built and fit optimal ARIMA model
+<ul>
+<li>Obtain Predictions</li>
+</ul>
+</li>
+<li>Evaluate Model performance
+<ul>
+<li>Plot predictions and calculate loss</li>
+</ul>
+</li>
+<li>Forecast for 100 months into the future</li>
+</ul>
+<p><a href="../links/TSA3_SARIMA_Lake_Erie.html">Part-3 Seasonal ARIMA Models</a> <br>
+In this notebook, we will:</p>
+<ul>
+<li>Read Lake Erie water level data and index it as a time series</li>
+<li>Discuss Stationarity of data</li>
+<li>Difference the data to make it stationary
+<ul>
+<li>Seasonal first order differencing</li>
+<li>Seasonal and Non-seasonal first order differencing</li>
+</ul>
+</li>
+<li>Use the ACF and PACF plots to decide AR term(s) and MA term(s) for SARIMA model</li>
+<li>Identify optimal SARIMA (p,d,q) x (P,D,Q) order using grid search</li>
+<li>Split the data</li>
+<li>Built and fit optimal SARIMA model
+<ul>
+<li>Obtain Predictions</li>
+</ul>
+</li>
+<li>Evaluate Model performance
+<ul>
+<li>Plot predictions and calculate loss</li>
+</ul>
+</li>
+<li>Forecast for 100 months into the future</li>
+</ul>
+<p>Part-4 Modeling and Interpretation - Coming soon&hellip;</p>
+<h5 id="language-python">Language: Python</h5>
     </div>
 
     
@@ -103,38 +179,24 @@ if (!doNotTrack) {
   
 
   
-    
-      
-      <div class="col-md-6 previous-article">
-        <a href="/posts/providershortage/" class="btn btn-outline-info">
-          <span><i class="fas fa-chevron-circle-left"></i> Prev</span>
-          <br />
-          <span>Exploring Healthcare Provider Shortage in U.S. (4-part study)</span>
-        </a>
-      </div>
-      
+
+  
+
+  
     
     
       
         
         
-          
-              
-          
-        
-        <div class="col-md-6 next-article">
-          <a href="/posts/corruption/" class="btn btn-outline-info">
+        <div class="col-md-12 next-article">
+          <a href="/posts/providershortage/" class="btn btn-outline-info">
             <span>Next <i class="fas fa-chevron-circle-right"></i></span>
             <br />
-            <span>Exploring Correlation between Corruption and Development</span>
+            <span>Exploring Healthcare Provider Shortage in U.S. (4-part study)</span>
           </a>
         </div>
       
     
-  
-
-  
-
   
 
 </div>

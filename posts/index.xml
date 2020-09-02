@@ -6,10 +6,20 @@
     <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mohitagr18.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lake Erie Water Levels - A Time Series Analysis (4-part study)</title>
+      <link>https://mohitagr18.github.io/posts/lakeerietsa/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/lakeerietsa/</guid>
+      <description>&lt;p&gt;In summer 2019, high water levels wreaked havoc on the communities bordering the Great Lakes leading to widespread damage in coastal cities, eroding shorelines and beaches. &lt;br&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Exploring Healthcare Provider Shortage in U.S. (4-part study)</title>
