@@ -77,7 +77,7 @@ if (!doNotTrack) {
     <div class="author-profile ml-auto align-self-lg-center">
       <img class="rounded-circle" src='/assets/images/profile.png'/>
       <h5 class="author-name">Mohit Aggarwal</h5>
-      <p>September 1, 2020</p>
+      <p>September 15, 2020</p>
     </div>
 
     <div class="title">
@@ -85,14 +85,15 @@ if (!doNotTrack) {
     </div>
 
     <div class="post-content" id="post-content">
-      <p>In summer 2019, high water levels wreaked havoc on the communities bordering the Great Lakes leading to widespread damage in coastal cities, eroding shorelines and beaches. <br>
+      <p>In summer 2019, high water levels wreaked havoc on the communities bordering the Great Lakes leading to widespread damage in coastal cities, eroding shorelines and beaches.<br>
 <br/><br/></p>
-<p>In this study, we will use <a href="https://www.lre.usace.army.mil/Missions/Great-Lakes-Information/Great-Lakes-Information-2/Water-Level-Data/">Lake Erie water level data</a> from 1918 - 2019 to understand trends and forecast how water levels will vary into the future. We will explore various Time Series modeling techniques such as:</p>
+<p>In May'2019, Lake Erie hit its highest average monthly water level since 1918. Cleveland, Ohio on Lake Erie’s shore saw more rainy days than any year since 1953.</p>
+<p>In this study, we will use <a href="https://www.lre.usace.army.mil/Missions/Great-Lakes-Information/Great-Lakes-Information-2/Water-Level-Data/">Mean Water Level</a> data for Lake Erie, <a href="https://www.glerl.noaa.gov/ftp/publications/tech_reports/glerl-083/UpdatedFiles/">Precipitation</a> data for Erie basin (land+lake) and <a href="https://www.glerl.noaa.gov/data/dashboard/data/hydroIO/sourceSpreadsheets/">Mean Air Temperature</a> data over Lake Erie to understand trends and forecast how water levels will vary into the future. We will explore various <strong>Univariate</strong> and <strong>Multivariate</strong> Time Series modeling techniques such as:</p>
 <ul>
 <li>Exponential Smoothing Models</li>
 <li>ARIMA (Autoregressive Integrated Moving Average) Models</li>
 <li>SARIMA (Seasonal Autoregressive Integrated Moving Average) Models</li>
-<li>Vector Based Models</li>
+<li>VARMA (Vector Autoregressive Moving Average) Models</li>
 </ul>
 <p><a href="../links/TSA1_Lake_Erie.html">Part-1 Exponential Smoothing Models</a> <br>
 In this notebook, we will:</p>
@@ -164,7 +165,25 @@ In this notebook, we will:</p>
 </li>
 <li>Forecast for 100 months into the future</li>
 </ul>
-<p>Part-4 Modeling and Interpretation - Coming soon&hellip;</p>
+<p><a href="../links/TSA4_VARMA_Lake_Erie.html">Part-4 VARMA Models</a><br>
+In this notebook, we will:</p>
+<ul>
+<li>Read Water level, Precipitation and Air Temperature data for Lake Erie and index it as a time series</li>
+<li>Discuss Stationarity of data</li>
+<li>Difference the data to make it stationary</li>
+<li>Identify optimal VARMA(p,q) order using grid search</li>
+<li>Split the data</li>
+<li>Built and fit optimal VARMA model
+<ul>
+<li>Obtain Predictions</li>
+</ul>
+</li>
+<li>Evaluate Model performance
+<ul>
+<li>Plot predictions and calculate loss</li>
+</ul>
+</li>
+</ul>
 <h5 id="language-python">Language: Python</h5>
     </div>
 
