@@ -6,7 +6,7 @@
     <description>Recent content on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mohitagr18.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,11 @@
     <item>
       <title>Machine Learning Algorithms from Scratch</title>
       <link>https://mohitagr18.github.io/posts/machinelearning/</link>
-      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/machinelearning/</guid>
-      <description>&lt;p&gt;This is an ongoing project that showcases the various common, supervised and unsupervised machine learning algorithms coded from scratch using basic Python libraries such as Numpy, Pandas and Matplotlib.&lt;/p&gt;
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is an ongoing project with the idea to showcase various supervised and unsupervised machine learning algorithms coded from scratch using basic Python libraries such as Numpy, Pandas and Matplotlib.
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -47,7 +47,7 @@
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/facerecognition/</guid>
-      <description>&lt;p&gt;The purpose of this project is to discuss a popular approach to face recognition called Eigenfaces. &lt;br&gt;
+      <description>&lt;p&gt;The purpose of this project is to discuss a popular approach to face recognition called Eigenfaces.&lt;br&gt;
 &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
     </item>
     
