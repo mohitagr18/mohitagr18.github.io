@@ -13084,7 +13084,7 @@ div#notebook {
 <script>
 $( document ).ready(function(){
 
-            var cfg = {"base_numbering": 1, "nav_menu": {}, "number_sections": true, "sideBar": true, "skip_h1_title": true, "title_cell": "Table of Contents", "title_sidebar": "Contents", "toc_cell": false, "toc_position": {"height": "calc(100% - 180px)", "left": "10px", "top": "150px", "width": "259.631px"}, "toc_section_display": true, "toc_window_display": true};
+            var cfg = {"base_numbering": 1, "nav_menu": {}, "number_sections": true, "sideBar": true, "skip_h1_title": true, "title_cell": "Table of Contents", "title_sidebar": "Contents", "toc_cell": false, "toc_position": {"height": "calc(100% - 180px)", "left": "10px", "top": "150px", "width": "259.625px"}, "toc_section_display": true, "toc_window_display": true};
             cfg.navigate_menu=false;
             // fire the main function with these parameters
             require(['nbextensions/toc2/toc2'], function (toc2) {
@@ -13981,7 +13981,7 @@ RMSE is: 7.010703520024047
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Batch-Gradient-Descent">Batch Gradient Descent<a class="anchor-link" href="#Batch-Gradient-Descent">&#182;</a></h2><p>Batch Gradient Descent uses all training data for a forward pass and then updates the parameters after all training data has been considered. So, the algorithm uses all dataset available to compute the gradient of cost function and then updates parameters. This whole process is like a cycle and it's called a training epoch.</p>
+<h2 id="Batch-Gradient-Descent">Batch Gradient Descent<a class="anchor-link" href="#Batch-Gradient-Descent">&#182;</a></h2><p>Batch Gradient Descent uses all training data for a forward pass and then updates the parameters after all training data has been considered. So, the algorithm uses all dataset available to compute the average gradients of all training examples and then uses that mean gradient to updates parameters. This whole process is like a cycle and it's called a training epoch.</p>
 <p>Some advantages of batch gradient descent are its computational efficient, it produces a stable error gradient and a stable convergence. Some disadvantages are the stable error gradient can sometimes result in a state of convergence that isn’t the best the model can achieve. It also requires the entire training dataset be in memory and available to the algorithm.</p>
 
 </div>
@@ -14892,6 +14892,65 @@ Test RMSE is: 6.978744470207237
 <td>6.591</td>
 <td>0.534</td>
 <td>6.045</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Comparison:-Batch-vs-Stochastic-vs-Mini-batch">Comparison: Batch vs Stochastic vs Mini-batch<a class="anchor-link" href="#Comparison:-Batch-vs-Stochastic-vs-Mini-batch">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<table>
+<thead><tr>
+<th>Batch</th>
+<th>Stochastic</th>
+<th>Mini-batch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Uses all training data to compute the gradient of cost function   and then updates model parameters. So it takes the average of the gradients   of all training examples and then uses that mean gradient to update model   parameters.</td>
+<td>Uses   each record in the training sample to compute the gradient of cost function   and update parameters right away.</td>
+<td>Uses a set of   ‘m’ records in the training sample to compute the gradient of the cost   function and update parameters. The set of 'm' records is called a   mini-batch.</td>
+</tr>
+<tr>
+<td>All training data in considered at once for gradient computation   and parameter update.</td>
+<td>Each   record is considered  for gradient   computation and parameter update.</td>
+<td>A   set of 'm' records called 'mini-batch' is considered for gradient computation   and parameter update.</td>
+</tr>
+<tr>
+<td>Pro -   computationally efficient as all training data is considered at once</td>
+<td>Pro - frequent updates allow us to   have a pretty detailed rate of improvement</td>
+<td>Pro - enjoys the advantages of both   Batch and Stochastic</td>
+</tr>
+<tr>
+<td>Pro - produces a   stable error gradient and a stable convergence</td>
+<td>Pro - converges faster for larger   datasets</td>
+<td>1.   updates are less expensive and hence gradients are less noisy than stochastic</td>
+</tr>
+<tr>
+<td>Pro - converges   directly to minima</td>
+<td>Con - frequent updates to gradients   are more computationally expensive than the batch gradient descent</td>
+<td>2.   requires only a batch of 'm' records in memory unlike batch</td>
+</tr>
+<tr>
+<td>Con - requires   the entire training dataset be in memory and available. So, not efficient for   large datasets</td>
+<td>Con - frequent updates can result in   noisy gradients, which may cause the error rate to jump around instead of   slowly decreasing</td>
+<td></td>
+</tr>
+<tr>
+<td>Con - stable   error gradient can sometimes result in a state of convergence that isn’t the   best the model can achieve</td>
+<td>Con - never reaches the minima but   it will keep dancing around it</td>
+<td></td>
 </tr>
 </tbody>
 </table>
