@@ -6,70 +6,70 @@
     <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
-    
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
+
 	<atom:link href="https://mohitagr18.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+
+
     <item>
       <title>Machine Learning Algorithms from Scratch</title>
       <link>https://mohitagr18.github.io/posts/machinelearning/</link>
-      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+
       <guid>https://mohitagr18.github.io/posts/machinelearning/</guid>
       <description>&lt;p&gt;This is an ongoing project with the idea to showcase various supervised and unsupervised machine learning algorithms coded from scratch using basic Python libraries such as Numpy, Pandas and Matplotlib.
 &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
     </item>
-    
+
     <item>
       <title>Web App: Explore Classifiers</title>
       <link>https://mohitagr18.github.io/posts/streamlitclassifier/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
-      
+
       <guid>https://mohitagr18.github.io/posts/streamlitclassifier/</guid>
       <description>&lt;p&gt;This simple web app allows users to explore the performance of various machine learning classifiers on different datasets. The code for this app can be found &lt;a href=&#34;https://github.com/mohitagr18/streamlit-classifier-app&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://share.streamlit.io/mohitagr18/streamlit-classifier-app/main.py&#34;&gt;Web App Link&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
+
     <item>
       <title>Lake Erie Water Levels - A Time Series Analysis (4-part study)</title>
       <link>https://mohitagr18.github.io/posts/lakeerietsa/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      
+
       <guid>https://mohitagr18.github.io/posts/lakeerietsa/</guid>
       <description>&lt;p&gt;In summer 2019, high water levels wreaked havoc on the communities bordering the Great Lakes leading to widespread damage in coastal cities, eroding shorelines and beaches.&lt;br&gt;
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
     </item>
-    
+
     <item>
       <title>Exploring Healthcare Provider Shortage in U.S. (4-part study)</title>
       <link>https://mohitagr18.github.io/posts/providershortage/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      
+
       <guid>https://mohitagr18.github.io/posts/providershortage/</guid>
       <description>&lt;p&gt;America has a severe shortage of healthcare providers. Demand for services is increasing and shortages of physicians and mental health providers are limiting patients’ access to required treatment.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
     </item>
-    
+
     <item>
       <title>Face Recognition using Principal Components Analysis</title>
       <link>https://mohitagr18.github.io/posts/facerecognition/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      
+
       <guid>https://mohitagr18.github.io/posts/facerecognition/</guid>
       <description>&lt;p&gt;The purpose of this project is to discuss a popular approach to face recognition called Eigenfaces.&lt;br&gt;
 &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
     </item>
-    
+
     <item>
       <title>Exploring Correlation between Corruption and Development</title>
       <link>https://mohitagr18.github.io/posts/corruption/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      
+
       <guid>https://mohitagr18.github.io/posts/corruption/</guid>
       <description>&lt;p&gt;The purpose of this project is to perform data visualization to explore the relationship between Corruption and Human Development across various nations based on UN Human Development Report.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
     </item>
-    
+
   </channel>
 </rss>
