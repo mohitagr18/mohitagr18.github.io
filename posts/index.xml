@@ -6,7 +6,7 @@
     <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mohitagr18.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Machine Learning Algorithms from Scratch</title>
       <link>https://mohitagr18.github.io/posts/machinelearning/</link>
-      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/machinelearning/</guid>
       <description>&lt;p&gt;This is an ongoing project with the idea to showcase various supervised and unsupervised machine learning algorithms coded from scratch using basic Python libraries such as Numpy, Pandas and Matplotlib.
