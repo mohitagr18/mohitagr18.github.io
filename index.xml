@@ -17,8 +17,7 @@
       <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/machinelearning/</guid>
-      <description>&lt;p&gt;This is an ongoing project with the idea to showcase various supervised and unsupervised machine learning algorithms coded from scratch using basic Python libraries such as Numpy, Pandas and Matplotlib.
-&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -27,8 +26,34 @@
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/streamlitclassifier/</guid>
-      <description>&lt;p&gt;This simple web app allows users to explore the performance of various machine learning classifiers on different datasets. The code for this app can be found &lt;a href=&#34;https://github.com/mohitagr18/streamlit-classifier-app&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://share.streamlit.io/mohitagr18/streamlit-classifier-app/main.py&#34;&gt;Web App Link&lt;/a&gt;&lt;/p&gt;</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks: Esri Sponsored Events</title>
+      <link>https://mohitagr18.github.io/posts/talks/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Data Engineering using Python (5-part study)</title>
+      <link>https://mohitagr18.github.io/posts/introduction-to-data-engineering/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/introduction-to-data-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is GeoEnrichment? (6-part study)</title>
+      <link>https://mohitagr18.github.io/posts/what-is-geoenrichment/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/what-is-geoenrichment/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -37,8 +62,7 @@
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/lakeerietsa/</guid>
-      <description>&lt;p&gt;In summer 2019, high water levels wreaked havoc on the communities bordering the Great Lakes leading to widespread damage in coastal cities, eroding shorelines and beaches.&lt;br&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -47,8 +71,7 @@
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/providershortage/</guid>
-      <description>&lt;p&gt;America has a severe shortage of healthcare providers. Demand for services is increasing and shortages of physicians and mental health providers are limiting patients’ access to required treatment.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -57,8 +80,7 @@
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/facerecognition/</guid>
-      <description>&lt;p&gt;The purpose of this project is to discuss a popular approach to face recognition called Eigenfaces.&lt;br&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -67,8 +89,7 @@
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/corruption/</guid>
-      <description>&lt;p&gt;The purpose of this project is to perform data visualization to explore the relationship between Corruption and Human Development across various nations based on UN Human Development Report.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
   </channel>
