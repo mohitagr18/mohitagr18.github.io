@@ -6,17 +6,17 @@
     <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mohitagr18.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Machine Learning Algorithms from Scratch</title>
-      <link>https://mohitagr18.github.io/posts/machinelearning/</link>
-      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Web App: Review Scrapper</title>
+      <link>https://mohitagr18.github.io/posts/reviewscrapper/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mohitagr18.github.io/posts/machinelearning/</guid>
+      <guid>https://mohitagr18.github.io/posts/reviewscrapper/</guid>
       <description></description>
     </item>
     
@@ -26,6 +26,24 @@
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/streamlitclassifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 trends in the U.S. Nursing Homes</title>
+      <link>https://mohitagr18.github.io/posts/covid_ts/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/covid_ts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Algorithms from Scratch</title>
+      <link>https://mohitagr18.github.io/posts/machinelearning/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/machinelearning/</guid>
       <description></description>
     </item>
     
