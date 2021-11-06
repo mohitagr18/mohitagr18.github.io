@@ -6,15 +6,33 @@
     <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mohitagr18.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Web App: Thyroid Detection</title>
+      <link>https://mohitagr18.github.io/posts/thyroiddetection/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/thyroiddetection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App: Wafer Fault Detection</title>
+      <link>https://mohitagr18.github.io/posts/waferdetection/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/waferdetection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Image Scraper</title>
       <link>https://mohitagr18.github.io/posts/imagescraper/</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/imagescraper/</guid>
       <description></description>
