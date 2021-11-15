@@ -30,25 +30,34 @@
     </item>
     
     <item>
-      <title>Image Scraper</title>
-      <link>https://mohitagr18.github.io/posts/imagescraper/</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <title>COVID-19 trends in the U.S. Nursing Homes</title>
+      <link>https://mohitagr18.github.io/posts/covid_ts/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mohitagr18.github.io/posts/imagescraper/</guid>
+      <guid>https://mohitagr18.github.io/posts/covid_ts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Healthcare Provider Shortage in U.S. (4-part study)</title>
+      <link>https://mohitagr18.github.io/posts/providershortage/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/providershortage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web App: Review Scraper</title>
       <link>https://mohitagr18.github.io/posts/reviewscrapper/</link>
-      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/reviewscrapper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Web App: Explore classifiers on different datasets</title>
+      <title>Web App: Explore Classifiers</title>
       <link>https://mohitagr18.github.io/posts/streamlitclassifier/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
       
@@ -57,11 +66,11 @@
     </item>
     
     <item>
-      <title>COVID-19 trends in the U.S. Nursing Homes</title>
-      <link>https://mohitagr18.github.io/posts/covid_ts/</link>
-      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <title>Image Scraper</title>
+      <link>https://mohitagr18.github.io/posts/imagescraper/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mohitagr18.github.io/posts/covid_ts/</guid>
+      <guid>https://mohitagr18.github.io/posts/imagescraper/</guid>
       <description></description>
     </item>
     
@@ -84,20 +93,11 @@
     </item>
     
     <item>
-      <title>Exploring Healthcare Provider Shortage in U.S. (4-part study)</title>
-      <link>https://mohitagr18.github.io/posts/providershortage/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <title>Face Recognition using Principal Components Analysis</title>
+      <link>https://mohitagr18.github.io/posts/facerecognition/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mohitagr18.github.io/posts/providershortage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lake Erie Water Levels - A Time Series Analysis (4-part study)</title>
-      <link>https://mohitagr18.github.io/posts/lakeerietsa/</link>
-      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohitagr18.github.io/posts/lakeerietsa/</guid>
+      <guid>https://mohitagr18.github.io/posts/facerecognition/</guid>
       <description></description>
     </item>
     
@@ -120,11 +120,11 @@
     </item>
     
     <item>
-      <title>Face Recognition using Principal Components Analysis</title>
-      <link>https://mohitagr18.github.io/posts/facerecognition/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <title>Lake Erie Water Levels - A Time Series Analysis (4-part study)</title>
+      <link>https://mohitagr18.github.io/posts/lakeerietsa/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mohitagr18.github.io/posts/facerecognition/</guid>
+      <guid>https://mohitagr18.github.io/posts/lakeerietsa/</guid>
       <description></description>
     </item>
     
