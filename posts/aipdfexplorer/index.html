@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Web App: AI-Powered PDF Explorer</title>
+    <title>Web App: AI-Powered PDF Explorer (Conversational RAG)</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -77,11 +77,11 @@ if (!doNotTrack) {
     <div class="author-profile ml-auto align-self-lg-center">
       <img class="rounded-circle" src='/assets/images/profile.png'/>
       <h5 class="author-name">Mohit Aggarwal</h5>
-      <p>February 9, 2025</p>
+      <p>February 20, 2025</p>
     </div>
 
     <div class="title">
-      <h1>Web App: AI-Powered PDF Explorer</h1>
+      <h1>Web App: AI-Powered PDF Explorer (Conversational RAG)</h1>
     </div>
 
     <div class="post-content" id="post-content">
@@ -92,15 +92,17 @@ if (!doNotTrack) {
      </a>
  </p>
  <br>
-<p>Remember all those research papers and articles you bookmarked with the best intentions, only to have them gather digital dust?  Yeah, me too. That&rsquo;s why I built this web app – it&rsquo;s like a research assistant who actually enjoys reading!  It uses Google&rsquo;s Gemini AI to analyze your uploaded PDFs and answer your burning questions, so you don&rsquo;t have to spend hours squinting at tiny text.  It&rsquo;s not magic, but it&rsquo;s pretty darn close when it comes to making sense of those monstrous files. Just a heads-up, there&rsquo;s a 5 query limit to prevent utter chaos. So use them wisely! The code for this app can be found <a href="https://github.com/mohitagr18/chat_with_docs">here</a>.</p>
+<p>This RAG (retrieval augmented generation) app is like a research assistant with a perfect memory! It uses Google&rsquo;s AI to analyze your uploaded PDFs and answer your burning questions, so you don&rsquo;t have to spend hours squinting at tiny text.  Not only that, but it also remembers every question you&rsquo;ve asked and every answer it&rsquo;s given.  Think of it as a super-organized notebook for your research journey! It&rsquo;s not magic, but it&rsquo;s pretty darn close when it comes to making sense of those monstrous files and keeping track of your progress. Just a heads-up, there&rsquo;s a 5 query limit to prevent utter chaos. So use them wisely! The code for this app can be found <a href="https://github.com/mohitagr18/rag_pdf_qa">here</a>.</p>
 <br>
 <!-- __Web App Framework:__ Flask     -->
 <p><strong>Deployed On:</strong> Streamlit <br>
-<strong>Libraries Used:</strong> google-generativeai, langchain, PyPDF2, faiss-cpu, langchain_google_genai, langchain_community, streamlit    <br>
+<strong>Libraries Used:</strong> langchain_community, langchain_huggingface, langchain_groq, langchain, PyPDFLoader, FAISS, streamlit
+<strong>Embedding Model:</strong> all-MiniLM-L6-v2 (Huggingface)<br>
+<strong>LLM Model:</strong> gemma2-9b-it (Google)    <br>
 <strong>Language:</strong> Python</p>
 <br> 
 <p><strong>Application Workflow</strong></p>
-<p><img src="/images/posts/ai_pdf_explorer_workflow.png" alt="image"></p>
+<p><img src="/images/posts/ai_rag_pdf_explorer_workflow.png" alt="image"></p>
     </div>
 
     
