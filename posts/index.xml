@@ -6,7 +6,7 @@
     <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mohitagr18.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Web App: Agentic Travel Itinerary Planner using Crew AI</title>
       <link>https://mohitagr18.github.io/posts/travelplanner/</link>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/travelplanner/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Web App: AI-Powered PDF Explorer (Conversational RAG)</title>
       <link>https://mohitagr18.github.io/posts/aipdfexplorer/</link>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/aipdfexplorer/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Web App: Smart Resume Analyzer</title>
       <link>https://mohitagr18.github.io/posts/resumeanalyzer/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/resumeanalyzer/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Web App: Gemini Image Nutrition Analyzer</title>
       <link>https://mohitagr18.github.io/posts/caloriecounter/</link>
-      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/caloriecounter/</guid>
       <description></description>
@@ -50,14 +50,23 @@
     <item>
       <title>Web App: Multi-language Invoice Extractor</title>
       <link>https://mohitagr18.github.io/posts/invoiceextractor/</link>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/invoiceextractor/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Web App: Thyroid Detection</title>
+      <title>Web App: Explore Classifiers</title>
+      <link>https://mohitagr18.github.io/posts/streamlitclassifier/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/streamlitclassifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thyroid Detection</title>
       <link>https://mohitagr18.github.io/posts/thyroiddetection/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
       
@@ -66,7 +75,7 @@
     </item>
     
     <item>
-      <title>App: Wafer Fault Detection</title>
+      <title>Wafer Fault Detection</title>
       <link>https://mohitagr18.github.io/posts/waferdetection/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
       
@@ -93,20 +102,11 @@
     </item>
     
     <item>
-      <title>Web App: Review Scraper</title>
+      <title>Review Scraper</title>
       <link>https://mohitagr18.github.io/posts/reviewscrapper/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/reviewscrapper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web App: Explore Classifiers</title>
-      <link>https://mohitagr18.github.io/posts/streamlitclassifier/</link>
-      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohitagr18.github.io/posts/streamlitclassifier/</guid>
       <description></description>
     </item>
     
