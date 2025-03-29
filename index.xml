@@ -6,10 +6,19 @@
     <description>Recent content on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mohitagr18.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Web App: Agentic Sprint Report Generator using Crew AI</title>
+      <link>https://mohitagr18.github.io/posts/trelloboard/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/trelloboard/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Web App: Agentic Travel Itinerary Planner using Crew AI</title>
