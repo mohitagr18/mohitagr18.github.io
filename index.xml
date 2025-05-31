@@ -6,33 +6,33 @@
     <description>Recent content on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mohitagr18.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Web App: Agentic Sprint Report Generator using Crew AI</title>
-      <link>https://mohitagr18.github.io/posts/trelloboard/</link>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohitagr18.github.io/posts/trelloboard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Web App: Agentic Travel Itinerary Planner using Crew AI</title>
       <link>https://mohitagr18.github.io/posts/travelplanner/</link>
-      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/travelplanner/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Web App: Agentic Sprint Report Generator using Crew AI</title>
+      <link>https://mohitagr18.github.io/posts/trelloboard/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/trelloboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Web App: AI-Powered PDF Explorer (Conversational RAG)</title>
       <link>https://mohitagr18.github.io/posts/aipdfexplorer/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/aipdfexplorer/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Web App: Smart Resume Analyzer</title>
       <link>https://mohitagr18.github.io/posts/resumeanalyzer/</link>
-      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://mohitagr18.github.io/posts/resumeanalyzer/</guid>
       <description></description>
