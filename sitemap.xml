@@ -1,138 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://mohitagr18.github.io/posts/music_generator/</loc>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mohitagr18.github.io/posts/ai_garden/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mohitagr18.github.io/posts/ai_style_coach/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mohitagr18.github.io/posts/ai_near_death/</loc>
+    <lastmod>2025-09-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/travelplanner/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/trelloboard/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/aipdfexplorer/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/resumeanalyzer/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/caloriecounter/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/invoiceextractor/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/streamlitclassifier/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/thyroiddetection/</loc>
     <lastmod>2021-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/waferdetection/</loc>
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/covid_ts/</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/providershortage/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/reviewscrapper/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/imagescraper/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/nyc_taxi_dl/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/machinelearning/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/facerecognition/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/introduction-to-data-engineering/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/what-is-geoenrichment/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/lakeerietsa/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/corruption/</loc>
     <lastmod>2019-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/ds21_t1/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/ds21_t2/</loc>
     <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/uc21_t1/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/</loc>
-    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mohitagr18.github.io/posts/</loc>
-    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mohitagr18.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohitagr18.github.io/tags/</loc>
   </url>
-  
 </urlset>

@@ -6,10 +6,42 @@
     <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mohitagr18.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Reality of “Agentic” AI: Why My Weekend Project Became a Nightmare</title>
+      <link>https://mohitagr18.github.io/posts/music_generator/</link>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/music_generator/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://mohitagr18.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My AI Failed My Garden. So I Built a Better One.</title>
+      <link>https://mohitagr18.github.io/posts/ai_garden/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/ai_garden/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Inside a Multimodal Style Coach: Agentic RAG that Actually Sees</title>
+      <link>https://mohitagr18.github.io/posts/ai_style_coach/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/ai_style_coach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Hackathon Project’s Near-Death Experience with AI Agents</title>
+      <link>https://mohitagr18.github.io/posts/ai_near_death/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitagr18.github.io/posts/ai_near_death/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Web App: Agentic Travel Itinerary Planner using Crew AI</title>
