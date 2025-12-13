@@ -1,0 +1,51 @@
+/* Force consistent card heights globally */
+
+/* 1. Ensure Card Title takes up 2 lines of space */
+.card-title {
+    min-height: 3rem !important;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Standardize Summary Height (Natural) */
+.post-summary {
+    height: auto !important;
+    /* Allow natural text height */
+    min-height: 0 !important;
+    max-height: 72px !important;
+    /* Cap at 3 lines to prevent huge cards */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    /* Limit to 3 lines */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 0 !important;
+}
+
+/* 3. DISABLE Flex on Bootstrap columns to prevent stretching */
+.recent-posts-section .col-lg-4,
+.recent-posts-section .col-md-6 {
+    display: block !important;
+    /* Forces natural block behavior, STOPS stretching */
+}
+
+/* 5. Ensure Card itself is flex column */
+.card {
+    display: flex !important;
+    flex-direction: column !important;
+    height: auto !important;
+    /* Matches content exactly */
+    min-height: 0 !important;
+    align-self: flex-start !important;
+    /* Double safety against stretching */
+}
+
+/* 6. Compact Footer */
+.card-footer {
+    padding: 0.5rem 0.75rem !important;
+    /* Increased from 0.25rem to 0.5rem for better spacing */
+    margin-top: 0 !important;
+    /* Do NOT push to bottom, sit naturally after content */
+}
